@@ -38,7 +38,7 @@ def main():
 
     # Exception if the user input is not a number
     except Exception:
-        print("{}, is not a number".format(user_num))
+        print("{}, is not an integer".format(user_num))
 
 
 if __name__ == "__main__":
